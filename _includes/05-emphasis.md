@@ -1,4 +1,4 @@
-#### Julian Smith
+#### Julian Smith :star:
 Keywords: **Hot** *kool* aid, waffles, jellifish.
 
 ### Fun negotiation techniques
