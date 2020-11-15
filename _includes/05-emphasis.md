@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#### Julian Smith
+Keywords: **Hot** *kool* aid, waffles, jellifish.
+
+### Fun negotiation techniques
+- Prepare, prepare, prepare. 
+  - enter a negotiation without proper preparation and you've already lost.
+- Pay attention 
+- Leave behind your lego. 
+- and your listening skills
