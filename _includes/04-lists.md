@@ -1,3 +1,3 @@
- - first list item
- * second
- * SUBITEM
+- **first *list* point** 
+* second point
+  *  second subpoint
